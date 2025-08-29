@@ -27,4 +27,3 @@ Styling: TailwindCSS + Framer Motion (animations)
 Backend (if applicable): Node.js / Express / Firebase (depending on your team’s setup)
 
 Other: GitHub for collaboration, AI-assisted UI design.
-Hello
